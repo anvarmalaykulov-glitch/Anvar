@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Моя веб-страница</title>
+</head>
+<body>
+    <h1>Проверка веб-страницы</h1>
+
+    <p>Если вы видите картинку ниже — GitHub Pages работает.</p>
+
+    <img src="image.jpg" alt="Картинка для проверки" width="400">
+</body>
+</html>
