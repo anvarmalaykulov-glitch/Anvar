@@ -1,3 +1,132 @@
-![Far_Cry_3_Box_Art_PC](https://github.com/user-attachments/assets/579007e4-8928-44d2-9138-e642aa616cb9)
-![The_Witcher_3-_Wild_Hunt_Cover](https://github.com/user-attachments/assets/cdab56e6-7f37-4e41-89c1-e1a42f20adb6)
-![Обложка_Assassins_Creed_2](https://github.com/user-attachments/assets/a9d1b455-a5c3-41a8-b298-bb99b6920380)
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Anvar's Page</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f172a, #020617);
+    color: white;
+    text-align: center;
+}
+
+section {
+    padding: 60px 20px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 30px;
+    color: #38bdf8;
+}
+
+.avatar {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #38bdf8;
+    box-shadow: 0 0 30px #38bdf8;
+}
+
+.name {
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.grid img {
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(56,189,248,0.4);
+    transition: transform 0.3s;
+}
+
+.grid img:hover {
+    transform: scale(1.05);
+}
+
+.gif {
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 25px #22c55e;
+}
+
+.music iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border-radius: 20px;
+    margin: 20px auto;
+    display: block;
+}
+</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<section>
+    <h1>Welcome to Anvar's Page</h1>
+    <img src="images/1602677673_poster.webp" class="avatar">
+    <div class="name">Anvar</div>
+</section>
+
+<!-- HOBBIES -->
+<section>
+    <h2>My Hobbies</h2>
+    <p>🎮 Gaming | 🎌 Anime | 🎵 Music | 💻 Coding</p>
+</section>
+
+<!-- GAMES -->
+<section>
+    <h2>Favorite Games</h2>
+    <div class="grid">
+        <img src="images/![Far_Cry_3_Box_Art_PC](https://github.com/user-attachments/assets/93e554df-de61-4545-8aeb-acd5d0895c0c)">
+        <img src="images/![The_Witcher_3-_Wild_Hunt_Cover](https://github.com/user-attachments/assets/26d840e9-8bc8-46f0-bcc5-52901461e50d)">
+        <img src="images/![Обложка_Assassins_Creed_2](https://github.com/user-attachments/assets/567261e9-2924-4675-97d1-e20481d5d62c)">
+    </div>
+</section>
+
+<!-- ANIME -->
+<section>
+    <h2>Favorite Anime</h2>
+    <div class="grid">
+        <img src="images/anime1.jpg">
+        <img src="images/anime2.jpg">
+        <img src="images/anime3.jpg">
+    </div>
+</section>
+
+<!-- GIF -->
+<section>
+    <h2>Just a GIF 😎</h2>
+    <img src="gif/cool.gif" class="gif">
+</section>
+
+<!-- MUSIC -->
+<section class="music">
+    <h2>Recommended Music 🎧</h2>
+
+    <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/VIDEO_ID_2" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/VIDEO_ID_3" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/VIDEO_ID_4" allowfullscreen></iframe>
+</section>
+
+</body>
+</html>
