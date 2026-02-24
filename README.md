@@ -5,7 +5,4 @@
 ![1602677673_poster](https://github.com/user-attachments/assets/6f490aac-c182-4dcf-8900-2d83f01b1cdb)
 ![sQPOc1qYc2fenZtToW0Y1nsodHqnoxbk](https://github.com/user-attachments/assets/64928f4f-4033-433e-888a-01ef31587ecb)
 ![WhatsApp Image 2026-02-24 at 00 20 29](https://github.com/user-attachments/assets/6155bbda-c5db-4463-beee-1a7af2f8156f)
-
-
-https://github.com/user-attachments/assets/ba0183db-a8fd-49f7-8bdd-ed0754417887
-
+![0635c4e3dd2c6c14eb548b37de5754ee](https://github.com/user-attachments/assets/df7b823e-8ebc-48c7-90e4-558af2137d91)
